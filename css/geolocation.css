@@ -1,0 +1,29 @@
+
+#wrapper{
+	background-color:#F9F9F9;
+	width:650px;
+	height:600px;
+	margin:0px auto;
+	border-radius:10px;
+}
+header{
+	text-align:left;
+	padding-top:1px; 
+	margin-left:20px;
+}
+p{
+	margin-left:20px;
+	font-size:1em;
+}
+p span {
+	line-height:3px;
+	background-color:#83AD00;
+	font-size:1.5em;
+}
+#mapcanvas{
+	margin-left:20px;
+	-moz-box-shadow: #dddddd 0 2px 5px 3px;
+	-webkit-box-shadow: #dddddd 0 2px 5px 3px;
+	-o-box-shadow: #dddddd 0 2px 5px 3px;
+	box-shadow: #dddddd 0 2px 5px 3px;
+}
